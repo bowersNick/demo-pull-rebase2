@@ -5,7 +5,7 @@
 
 # TEAM
 
-    Raven Ind -- software developer -- @bowers_ravenind
+    Github team -- software developer -- @bowers_ravenind
 
 # THANKS
 
