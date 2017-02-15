@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+# We are good humans
+# testing again
+
+# TEAM
+
+    Raven Ind -- software developer -- @bowers_ravenind
+
+# THANKS
+
+    Nick Bowers  nick.bowers@ravenind.com
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
